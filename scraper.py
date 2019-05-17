@@ -14,11 +14,11 @@ count = 0
 day = 86400 #seconds
 days_10 = day * 10
 
-
+###############################################
 links = ['https://www.reddit.com/r/AskReddit/',
          'https://www.reddit.com/r/funny/'
         ]
-
+###############################################
 
 categories = list()
 categories.append(links)
